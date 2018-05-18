@@ -9,5 +9,5 @@ class Dancer
     @name = name
   end
 
-  extended MetaDancing
+  extend MetaDancing
 end
